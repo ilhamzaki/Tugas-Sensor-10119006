@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Profile Mahasiswa" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:title="Tempat Favorit" />
+        <item
+            android:id="@+id/nav_locate"
+            android:title="Lokasi Saya" />
+        <item
+            android:id="@+id/nav_about"
+            android:title="Tentang Aplikasi" />
+    </group>
+</menu>
